@@ -1,0 +1,1401 @@
+Date,Store,Chip brand,Number of bags sold
+1/31/2011,Whole Foods,Pringles,24
+1/31/2011,Whole Foods,Tostitos,49
+1/31/2011,Whole Foods,Lay's,48
+1/31/2011,Whole Foods,Popchips,27
+1/31/2011,Whole Foods,Sun Chips,23
+1/31/2011,Ralphs,Pringles,26
+1/31/2011,Ralphs,Tostitos,47
+1/31/2011,Ralphs,Lay's,42
+1/31/2011,Ralphs,Popchips,47
+1/31/2011,Ralphs,Sun Chips,34
+1/31/2011,Walmart,Pringles,29
+1/31/2011,Walmart,Tostitos,31
+1/31/2011,Walmart,Lay's,38
+1/31/2011,Walmart,Popchips,12
+1/31/2011,Walmart,Sun Chips,10
+1/31/2011,Pavilions,Pringles,26
+1/31/2011,Pavilions,Tostitos,32
+1/31/2011,Pavilions,Lay's,35
+1/31/2011,Pavilions,Popchips,23
+1/31/2011,Pavilions,Sun Chips,24
+1/31/2011,Smiths,Pringles,13
+1/31/2011,Smiths,Tostitos,21
+1/31/2011,Smiths,Lay's,37
+1/31/2011,Smiths,Popchips,34
+1/31/2011,Smiths,Sun Chips,46
+1/31/2011,ALBERTSONS,Pringles,21
+1/31/2011,ALBERTSONS,Tostitos,20
+1/31/2011,ALBERTSONS,Lay's,15
+1/31/2011,ALBERTSONS,Popchips,40
+1/31/2011,ALBERTSONS,Sun Chips,47
+1/31/2011,Hillsborough ,Pringles,42
+1/31/2011,Hillsborough ,Tostitos,30
+1/31/2011,Hillsborough ,Lay's,28
+1/31/2011,Hillsborough ,Popchips,34
+1/31/2011,Hillsborough ,Sun Chips,11
+1/31/2011,Krogers,Pringles,10
+1/31/2011,Krogers,Tostitos,41
+1/31/2011,Krogers,Lay's,12
+1/31/2011,Krogers,Popchips,20
+1/31/2011,Krogers,Sun Chips,49
+1/31/2011,Asda,Pringles,50
+1/31/2011,Asda,Tostitos,31
+1/31/2011,Asda,Lay's,20
+1/31/2011,Asda,Popchips,50
+1/31/2011,Asda,Sun Chips,47
+1/31/2011,Tesco,Pringles,22
+1/31/2011,Tesco,Tostitos,12
+1/31/2011,Tesco,Lay's,11
+1/31/2011,Tesco,Popchips,20
+1/31/2011,Tesco,Sun Chips,35
+1/31/2011,Monte Sereno ,Pringles,40
+1/31/2011,Monte Sereno ,Tostitos,29
+1/31/2011,Monte Sereno ,Lay's,18
+1/31/2011,Monte Sereno ,Popchips,17
+1/31/2011,Monte Sereno ,Sun Chips,40
+1/31/2011,Montecito ,Pringles,17
+1/31/2011,Montecito ,Tostitos,44
+1/31/2011,Montecito ,Lay's,41
+1/31/2011,Montecito ,Popchips,23
+1/31/2011,Montecito ,Sun Chips,48
+1/31/2011,Morrison,Pringles,35
+1/31/2011,Morrison,Tostitos,19
+1/31/2011,Morrison,Lay's,45
+1/31/2011,Morrison,Popchips,28
+1/31/2011,Morrison,Sun Chips,22
+1/31/2011,Piedmont ,Pringles,40
+1/31/2011,Piedmont ,Tostitos,26
+1/31/2011,Piedmont ,Lay's,17
+1/31/2011,Piedmont ,Popchips,14
+1/31/2011,Piedmont ,Sun Chips,10
+1/31/2011,Sainsbury,Pringles,27
+1/31/2011,Sainsbury,Tostitos,19
+1/31/2011,Sainsbury,Lay's,30
+1/31/2011,Sainsbury,Popchips,37
+1/31/2011,Sainsbury,Sun Chips,14
+1/31/2011,Food4Less,Pringles,48
+1/31/2011,Food4Less,Tostitos,37
+1/31/2011,Food4Less,Lay's,34
+1/31/2011,Food4Less,Popchips,44
+1/31/2011,Food4Less,Sun Chips,38
+1/31/2011,Rolling Hills ,Pringles,38
+1/31/2011,Rolling Hills ,Tostitos,21
+1/31/2011,Rolling Hills ,Lay's,40
+1/31/2011,Rolling Hills ,Popchips,11
+1/31/2011,Rolling Hills ,Sun Chips,36
+1/31/2011,Sausalito ,Pringles,18
+1/31/2011,Sausalito ,Tostitos,35
+1/31/2011,Sausalito ,Lay's,27
+1/31/2011,Sausalito ,Popchips,29
+1/31/2011,Sausalito ,Sun Chips,47
+1/31/2011,Tiburon ,Pringles,30
+1/31/2011,Tiburon ,Tostitos,19
+1/31/2011,Tiburon ,Lay's,19
+1/31/2011,Tiburon ,Popchips,24
+1/31/2011,Tiburon ,Sun Chips,39
+1/31/2011,Woodside ,Pringles,32
+1/31/2011,Woodside ,Tostitos,36
+1/31/2011,Woodside ,Lay's,17
+1/31/2011,Woodside ,Popchips,50
+1/31/2011,Woodside ,Sun Chips,29
+2/1/2011,Whole Foods,Pringles,26
+2/1/2011,Whole Foods,Tostitos,20
+2/1/2011,Whole Foods,Lay's,33
+2/1/2011,Whole Foods,Popchips,26
+2/1/2011,Whole Foods,Sun Chips,12
+2/1/2011,Ralphs,Pringles,30
+2/1/2011,Ralphs,Tostitos,42
+2/1/2011,Ralphs,Lay's,19
+2/1/2011,Ralphs,Popchips,48
+2/1/2011,Ralphs,Sun Chips,18
+2/1/2011,Walmart,Pringles,23
+2/1/2011,Walmart,Tostitos,14
+2/1/2011,Walmart,Lay's,50
+2/1/2011,Walmart,Popchips,34
+2/1/2011,Walmart,Sun Chips,25
+2/1/2011,Pavilions,Pringles,38
+2/1/2011,Pavilions,Tostitos,17
+2/1/2011,Pavilions,Lay's,35
+2/1/2011,Pavilions,Popchips,47
+2/1/2011,Pavilions,Sun Chips,42
+2/1/2011,Smiths,Pringles,49
+2/1/2011,Smiths,Tostitos,45
+2/1/2011,Smiths,Lay's,25
+2/1/2011,Smiths,Popchips,48
+2/1/2011,Smiths,Sun Chips,29
+2/1/2011,ALBERTSONS,Pringles,47
+2/1/2011,ALBERTSONS,Tostitos,10
+2/1/2011,ALBERTSONS,Lay's,19
+2/1/2011,ALBERTSONS,Popchips,48
+2/1/2011,ALBERTSONS,Sun Chips,44
+2/1/2011,Hillsborough ,Pringles,49
+2/1/2011,Hillsborough ,Tostitos,32
+2/1/2011,Hillsborough ,Lay's,23
+2/1/2011,Hillsborough ,Popchips,27
+2/1/2011,Hillsborough ,Sun Chips,45
+2/1/2011,Krogers,Pringles,39
+2/1/2011,Krogers,Tostitos,36
+2/1/2011,Krogers,Lay's,41
+2/1/2011,Krogers,Popchips,28
+2/1/2011,Krogers,Sun Chips,22
+2/1/2011,Asda,Pringles,32
+2/1/2011,Asda,Tostitos,16
+2/1/2011,Asda,Lay's,30
+2/1/2011,Asda,Popchips,44
+2/1/2011,Asda,Sun Chips,37
+2/1/2011,Tesco,Pringles,50
+2/1/2011,Tesco,Tostitos,44
+2/1/2011,Tesco,Lay's,24
+2/1/2011,Tesco,Popchips,15
+2/1/2011,Tesco,Sun Chips,40
+2/1/2011,Monte Sereno ,Pringles,47
+2/1/2011,Monte Sereno ,Tostitos,23
+2/1/2011,Monte Sereno ,Lay's,40
+2/1/2011,Monte Sereno ,Popchips,34
+2/1/2011,Monte Sereno ,Sun Chips,49
+2/1/2011,Montecito ,Pringles,26
+2/1/2011,Montecito ,Tostitos,15
+2/1/2011,Montecito ,Lay's,42
+2/1/2011,Montecito ,Popchips,12
+2/1/2011,Montecito ,Sun Chips,39
+2/1/2011,Morrison,Pringles,39
+2/1/2011,Morrison,Tostitos,18
+2/1/2011,Morrison,Lay's,47
+2/1/2011,Morrison,Popchips,42
+2/1/2011,Morrison,Sun Chips,20
+2/1/2011,Piedmont ,Pringles,41
+2/1/2011,Piedmont ,Tostitos,23
+2/1/2011,Piedmont ,Lay's,13
+2/1/2011,Piedmont ,Popchips,22
+2/1/2011,Piedmont ,Sun Chips,30
+2/1/2011,Sainsbury,Pringles,28
+2/1/2011,Sainsbury,Tostitos,48
+2/1/2011,Sainsbury,Lay's,49
+2/1/2011,Sainsbury,Popchips,13
+2/1/2011,Sainsbury,Sun Chips,29
+2/1/2011,Food4Less,Pringles,15
+2/1/2011,Food4Less,Tostitos,18
+2/1/2011,Food4Less,Lay's,34
+2/1/2011,Food4Less,Popchips,17
+2/1/2011,Food4Less,Sun Chips,19
+2/1/2011,Rolling Hills ,Pringles,16
+2/1/2011,Rolling Hills ,Tostitos,49
+2/1/2011,Rolling Hills ,Lay's,12
+2/1/2011,Rolling Hills ,Popchips,37
+2/1/2011,Rolling Hills ,Sun Chips,23
+2/1/2011,Sausalito ,Pringles,18
+2/1/2011,Sausalito ,Tostitos,24
+2/1/2011,Sausalito ,Lay's,49
+2/1/2011,Sausalito ,Popchips,13
+2/1/2011,Sausalito ,Sun Chips,30
+2/1/2011,Tiburon ,Pringles,47
+2/1/2011,Tiburon ,Tostitos,11
+2/1/2011,Tiburon ,Lay's,39
+2/1/2011,Tiburon ,Popchips,49
+2/1/2011,Tiburon ,Sun Chips,42
+2/1/2011,Woodside ,Pringles,30
+2/1/2011,Woodside ,Tostitos,23
+2/1/2011,Woodside ,Lay's,12
+2/1/2011,Woodside ,Popchips,19
+2/1/2011,Woodside ,Sun Chips,37
+2/2/2011,Whole Foods,Pringles,23
+2/2/2011,Whole Foods,Tostitos,47
+2/2/2011,Whole Foods,Lay's,28
+2/2/2011,Whole Foods,Popchips,23
+2/2/2011,Whole Foods,Sun Chips,36
+2/2/2011,Ralphs,Pringles,14
+2/2/2011,Ralphs,Tostitos,42
+2/2/2011,Ralphs,Lay's,32
+2/2/2011,Ralphs,Popchips,48
+2/2/2011,Ralphs,Sun Chips,16
+2/2/2011,Walmart,Pringles,47
+2/2/2011,Walmart,Tostitos,44
+2/2/2011,Walmart,Lay's,22
+2/2/2011,Walmart,Popchips,35
+2/2/2011,Walmart,Sun Chips,17
+2/2/2011,Pavilions,Pringles,30
+2/2/2011,Pavilions,Tostitos,29
+2/2/2011,Pavilions,Lay's,17
+2/2/2011,Pavilions,Popchips,27
+2/2/2011,Pavilions,Sun Chips,33
+2/2/2011,Smiths,Pringles,19
+2/2/2011,Smiths,Tostitos,15
+2/2/2011,Smiths,Lay's,30
+2/2/2011,Smiths,Popchips,30
+2/2/2011,Smiths,Sun Chips,27
+2/2/2011,ALBERTSONS,Pringles,25
+2/2/2011,ALBERTSONS,Tostitos,18
+2/2/2011,ALBERTSONS,Lay's,45
+2/2/2011,ALBERTSONS,Popchips,37
+2/2/2011,ALBERTSONS,Sun Chips,37
+2/2/2011,Hillsborough ,Pringles,46
+2/2/2011,Hillsborough ,Tostitos,24
+2/2/2011,Hillsborough ,Lay's,43
+2/2/2011,Hillsborough ,Popchips,37
+2/2/2011,Hillsborough ,Sun Chips,29
+2/2/2011,Krogers,Pringles,46
+2/2/2011,Krogers,Tostitos,13
+2/2/2011,Krogers,Lay's,14
+2/2/2011,Krogers,Popchips,29
+2/2/2011,Krogers,Sun Chips,15
+2/2/2011,Asda,Pringles,34
+2/2/2011,Asda,Tostitos,17
+2/2/2011,Asda,Lay's,33
+2/2/2011,Asda,Popchips,11
+2/2/2011,Asda,Sun Chips,32
+2/2/2011,Tesco,Pringles,14
+2/2/2011,Tesco,Tostitos,35
+2/2/2011,Tesco,Lay's,15
+2/2/2011,Tesco,Popchips,47
+2/2/2011,Tesco,Sun Chips,15
+2/2/2011,Monte Sereno ,Pringles,29
+2/2/2011,Monte Sereno ,Tostitos,42
+2/2/2011,Monte Sereno ,Lay's,46
+2/2/2011,Monte Sereno ,Popchips,47
+2/2/2011,Monte Sereno ,Sun Chips,49
+2/2/2011,Montecito ,Pringles,44
+2/2/2011,Montecito ,Tostitos,15
+2/2/2011,Montecito ,Lay's,40
+2/2/2011,Montecito ,Popchips,42
+2/2/2011,Montecito ,Sun Chips,11
+2/2/2011,Morrison,Pringles,46
+2/2/2011,Morrison,Tostitos,19
+2/2/2011,Morrison,Lay's,49
+2/2/2011,Morrison,Popchips,18
+2/2/2011,Morrison,Sun Chips,16
+2/2/2011,Piedmont ,Pringles,38
+2/2/2011,Piedmont ,Tostitos,31
+2/2/2011,Piedmont ,Lay's,41
+2/2/2011,Piedmont ,Popchips,30
+2/2/2011,Piedmont ,Sun Chips,45
+2/2/2011,Sainsbury,Pringles,26
+2/2/2011,Sainsbury,Tostitos,16
+2/2/2011,Sainsbury,Lay's,28
+2/2/2011,Sainsbury,Popchips,48
+2/2/2011,Sainsbury,Sun Chips,38
+2/2/2011,Food4Less,Pringles,19
+2/2/2011,Food4Less,Tostitos,46
+2/2/2011,Food4Less,Lay's,13
+2/2/2011,Food4Less,Popchips,24
+2/2/2011,Food4Less,Sun Chips,39
+2/2/2011,Rolling Hills ,Pringles,29
+2/2/2011,Rolling Hills ,Tostitos,36
+2/2/2011,Rolling Hills ,Lay's,43
+2/2/2011,Rolling Hills ,Popchips,16
+2/2/2011,Rolling Hills ,Sun Chips,40
+2/2/2011,Sausalito ,Pringles,44
+2/2/2011,Sausalito ,Tostitos,39
+2/2/2011,Sausalito ,Lay's,34
+2/2/2011,Sausalito ,Popchips,16
+2/2/2011,Sausalito ,Sun Chips,15
+2/2/2011,Tiburon ,Pringles,30
+2/2/2011,Tiburon ,Tostitos,42
+2/2/2011,Tiburon ,Lay's,28
+2/2/2011,Tiburon ,Popchips,43
+2/2/2011,Tiburon ,Sun Chips,46
+2/2/2011,Woodside ,Pringles,50
+2/2/2011,Woodside ,Tostitos,13
+2/2/2011,Woodside ,Lay's,45
+2/2/2011,Woodside ,Popchips,14
+2/2/2011,Woodside ,Sun Chips,23
+2/3/2011,Whole Foods,Pringles,11
+2/3/2011,Whole Foods,Tostitos,34
+2/3/2011,Whole Foods,Lay's,17
+2/3/2011,Whole Foods,Popchips,46
+2/3/2011,Whole Foods,Sun Chips,38
+2/3/2011,Ralphs,Pringles,19
+2/3/2011,Ralphs,Tostitos,37
+2/3/2011,Ralphs,Lay's,26
+2/3/2011,Ralphs,Popchips,36
+2/3/2011,Ralphs,Sun Chips,48
+2/3/2011,Walmart,Pringles,22
+2/3/2011,Walmart,Tostitos,12
+2/3/2011,Walmart,Lay's,13
+2/3/2011,Walmart,Popchips,27
+2/3/2011,Walmart,Sun Chips,14
+2/3/2011,Pavilions,Pringles,41
+2/3/2011,Pavilions,Tostitos,25
+2/3/2011,Pavilions,Lay's,23
+2/3/2011,Pavilions,Popchips,41
+2/3/2011,Pavilions,Sun Chips,17
+2/3/2011,Smiths,Pringles,12
+2/3/2011,Smiths,Tostitos,23
+2/3/2011,Smiths,Lay's,36
+2/3/2011,Smiths,Popchips,26
+2/3/2011,Smiths,Sun Chips,32
+2/3/2011,ALBERTSONS,Pringles,21
+2/3/2011,ALBERTSONS,Tostitos,47
+2/3/2011,ALBERTSONS,Lay's,14
+2/3/2011,ALBERTSONS,Popchips,35
+2/3/2011,ALBERTSONS,Sun Chips,29
+2/3/2011,Hillsborough ,Pringles,26
+2/3/2011,Hillsborough ,Tostitos,24
+2/3/2011,Hillsborough ,Lay's,26
+2/3/2011,Hillsborough ,Popchips,19
+2/3/2011,Hillsborough ,Sun Chips,35
+2/3/2011,Krogers,Pringles,25
+2/3/2011,Krogers,Tostitos,25
+2/3/2011,Krogers,Lay's,29
+2/3/2011,Krogers,Popchips,17
+2/3/2011,Krogers,Sun Chips,39
+2/3/2011,Asda,Pringles,32
+2/3/2011,Asda,Tostitos,27
+2/3/2011,Asda,Lay's,26
+2/3/2011,Asda,Popchips,17
+2/3/2011,Asda,Sun Chips,11
+2/3/2011,Tesco,Pringles,13
+2/3/2011,Tesco,Tostitos,14
+2/3/2011,Tesco,Lay's,29
+2/3/2011,Tesco,Popchips,32
+2/3/2011,Tesco,Sun Chips,33
+2/3/2011,Monte Sereno ,Pringles,20
+2/3/2011,Monte Sereno ,Tostitos,35
+2/3/2011,Monte Sereno ,Lay's,37
+2/3/2011,Monte Sereno ,Popchips,45
+2/3/2011,Monte Sereno ,Sun Chips,34
+2/3/2011,Montecito ,Pringles,20
+2/3/2011,Montecito ,Tostitos,48
+2/3/2011,Montecito ,Lay's,22
+2/3/2011,Montecito ,Popchips,48
+2/3/2011,Montecito ,Sun Chips,30
+2/3/2011,Morrison,Pringles,34
+2/3/2011,Morrison,Tostitos,40
+2/3/2011,Morrison,Lay's,28
+2/3/2011,Morrison,Popchips,44
+2/3/2011,Morrison,Sun Chips,25
+2/3/2011,Piedmont ,Pringles,14
+2/3/2011,Piedmont ,Tostitos,41
+2/3/2011,Piedmont ,Lay's,16
+2/3/2011,Piedmont ,Popchips,28
+2/3/2011,Piedmont ,Sun Chips,50
+2/3/2011,Sainsbury,Pringles,34
+2/3/2011,Sainsbury,Tostitos,26
+2/3/2011,Sainsbury,Lay's,47
+2/3/2011,Sainsbury,Popchips,15
+2/3/2011,Sainsbury,Sun Chips,15
+2/3/2011,Food4Less,Pringles,23
+2/3/2011,Food4Less,Tostitos,23
+2/3/2011,Food4Less,Lay's,45
+2/3/2011,Food4Less,Popchips,40
+2/3/2011,Food4Less,Sun Chips,16
+2/3/2011,Rolling Hills ,Pringles,47
+2/3/2011,Rolling Hills ,Tostitos,21
+2/3/2011,Rolling Hills ,Lay's,18
+2/3/2011,Rolling Hills ,Popchips,31
+2/3/2011,Rolling Hills ,Sun Chips,45
+2/3/2011,Sausalito ,Pringles,20
+2/3/2011,Sausalito ,Tostitos,12
+2/3/2011,Sausalito ,Lay's,23
+2/3/2011,Sausalito ,Popchips,18
+2/3/2011,Sausalito ,Sun Chips,12
+2/3/2011,Tiburon ,Pringles,35
+2/3/2011,Tiburon ,Tostitos,17
+2/3/2011,Tiburon ,Lay's,26
+2/3/2011,Tiburon ,Popchips,50
+2/3/2011,Tiburon ,Sun Chips,18
+2/3/2011,Woodside ,Pringles,46
+2/3/2011,Woodside ,Tostitos,27
+2/3/2011,Woodside ,Lay's,24
+2/3/2011,Woodside ,Popchips,31
+2/3/2011,Woodside ,Sun Chips,15
+2/4/2011,Whole Foods,Pringles,34
+2/4/2011,Whole Foods,Tostitos,21
+2/4/2011,Whole Foods,Lay's,38
+2/4/2011,Whole Foods,Popchips,27
+2/4/2011,Whole Foods,Sun Chips,27
+2/4/2011,Ralphs,Pringles,23
+2/4/2011,Ralphs,Tostitos,36
+2/4/2011,Ralphs,Lay's,10
+2/4/2011,Ralphs,Popchips,15
+2/4/2011,Ralphs,Sun Chips,23
+2/4/2011,Walmart,Pringles,10
+2/4/2011,Walmart,Tostitos,31
+2/4/2011,Walmart,Lay's,27
+2/4/2011,Walmart,Popchips,47
+2/4/2011,Walmart,Sun Chips,40
+2/4/2011,Pavilions,Pringles,21
+2/4/2011,Pavilions,Tostitos,39
+2/4/2011,Pavilions,Lay's,16
+2/4/2011,Pavilions,Popchips,45
+2/4/2011,Pavilions,Sun Chips,17
+2/4/2011,Smiths,Pringles,12
+2/4/2011,Smiths,Tostitos,23
+2/4/2011,Smiths,Lay's,33
+2/4/2011,Smiths,Popchips,26
+2/4/2011,Smiths,Sun Chips,40
+2/4/2011,ALBERTSONS,Pringles,25
+2/4/2011,ALBERTSONS,Tostitos,30
+2/4/2011,ALBERTSONS,Lay's,28
+2/4/2011,ALBERTSONS,Popchips,32
+2/4/2011,ALBERTSONS,Sun Chips,27
+2/4/2011,Hillsborough ,Pringles,19
+2/4/2011,Hillsborough ,Tostitos,38
+2/4/2011,Hillsborough ,Lay's,27
+2/4/2011,Hillsborough ,Popchips,29
+2/4/2011,Hillsborough ,Sun Chips,29
+2/4/2011,Krogers,Pringles,36
+2/4/2011,Krogers,Tostitos,36
+2/4/2011,Krogers,Lay's,30
+2/4/2011,Krogers,Popchips,43
+2/4/2011,Krogers,Sun Chips,41
+2/4/2011,Asda,Pringles,45
+2/4/2011,Asda,Tostitos,16
+2/4/2011,Asda,Lay's,10
+2/4/2011,Asda,Popchips,35
+2/4/2011,Asda,Sun Chips,16
+2/4/2011,Tesco,Pringles,50
+2/4/2011,Tesco,Tostitos,30
+2/4/2011,Tesco,Lay's,26
+2/4/2011,Tesco,Popchips,34
+2/4/2011,Tesco,Sun Chips,43
+2/4/2011,Monte Sereno ,Pringles,42
+2/4/2011,Monte Sereno ,Tostitos,45
+2/4/2011,Monte Sereno ,Lay's,50
+2/4/2011,Monte Sereno ,Popchips,28
+2/4/2011,Monte Sereno ,Sun Chips,26
+2/4/2011,Montecito ,Pringles,30
+2/4/2011,Montecito ,Tostitos,29
+2/4/2011,Montecito ,Lay's,36
+2/4/2011,Montecito ,Popchips,32
+2/4/2011,Montecito ,Sun Chips,34
+2/4/2011,Morrison,Pringles,43
+2/4/2011,Morrison,Tostitos,35
+2/4/2011,Morrison,Lay's,42
+2/4/2011,Morrison,Popchips,11
+2/4/2011,Morrison,Sun Chips,18
+2/4/2011,Piedmont ,Pringles,38
+2/4/2011,Piedmont ,Tostitos,12
+2/4/2011,Piedmont ,Lay's,43
+2/4/2011,Piedmont ,Popchips,46
+2/4/2011,Piedmont ,Sun Chips,26
+2/4/2011,Sainsbury,Pringles,50
+2/4/2011,Sainsbury,Tostitos,15
+2/4/2011,Sainsbury,Lay's,26
+2/4/2011,Sainsbury,Popchips,49
+2/4/2011,Sainsbury,Sun Chips,30
+2/4/2011,Food4Less,Pringles,32
+2/4/2011,Food4Less,Tostitos,30
+2/4/2011,Food4Less,Lay's,36
+2/4/2011,Food4Less,Popchips,31
+2/4/2011,Food4Less,Sun Chips,14
+2/4/2011,Rolling Hills ,Pringles,30
+2/4/2011,Rolling Hills ,Tostitos,37
+2/4/2011,Rolling Hills ,Lay's,23
+2/4/2011,Rolling Hills ,Popchips,34
+2/4/2011,Rolling Hills ,Sun Chips,35
+2/4/2011,Sausalito ,Pringles,12
+2/4/2011,Sausalito ,Tostitos,14
+2/4/2011,Sausalito ,Lay's,38
+2/4/2011,Sausalito ,Popchips,27
+2/4/2011,Sausalito ,Sun Chips,10
+2/4/2011,Tiburon ,Pringles,14
+2/4/2011,Tiburon ,Tostitos,24
+2/4/2011,Tiburon ,Lay's,40
+2/4/2011,Tiburon ,Popchips,31
+2/4/2011,Tiburon ,Sun Chips,16
+2/4/2011,Woodside ,Pringles,19
+2/4/2011,Woodside ,Tostitos,28
+2/4/2011,Woodside ,Lay's,41
+2/4/2011,Woodside ,Popchips,37
+2/4/2011,Woodside ,Sun Chips,29
+2/5/2011,Whole Foods,Pringles,12
+2/5/2011,Whole Foods,Tostitos,13
+2/5/2011,Whole Foods,Lay's,42
+2/5/2011,Whole Foods,Popchips,46
+2/5/2011,Whole Foods,Sun Chips,28
+2/5/2011,Ralphs,Pringles,40
+2/5/2011,Ralphs,Tostitos,50
+2/5/2011,Ralphs,Lay's,24
+2/5/2011,Ralphs,Popchips,11
+2/5/2011,Ralphs,Sun Chips,20
+2/5/2011,Walmart,Pringles,43
+2/5/2011,Walmart,Tostitos,37
+2/5/2011,Walmart,Lay's,25
+2/5/2011,Walmart,Popchips,17
+2/5/2011,Walmart,Sun Chips,49
+2/5/2011,Pavilions,Pringles,45
+2/5/2011,Pavilions,Tostitos,27
+2/5/2011,Pavilions,Lay's,46
+2/5/2011,Pavilions,Popchips,34
+2/5/2011,Pavilions,Sun Chips,23
+2/5/2011,Smiths,Pringles,42
+2/5/2011,Smiths,Tostitos,27
+2/5/2011,Smiths,Lay's,30
+2/5/2011,Smiths,Popchips,50
+2/5/2011,Smiths,Sun Chips,12
+2/5/2011,ALBERTSONS,Pringles,20
+2/5/2011,ALBERTSONS,Tostitos,22
+2/5/2011,ALBERTSONS,Lay's,18
+2/5/2011,ALBERTSONS,Popchips,16
+2/5/2011,ALBERTSONS,Sun Chips,13
+2/5/2011,Hillsborough ,Pringles,41
+2/5/2011,Hillsborough ,Tostitos,20
+2/5/2011,Hillsborough ,Lay's,16
+2/5/2011,Hillsborough ,Popchips,46
+2/5/2011,Hillsborough ,Sun Chips,29
+2/5/2011,Krogers,Pringles,33
+2/5/2011,Krogers,Tostitos,42
+2/5/2011,Krogers,Lay's,18
+2/5/2011,Krogers,Popchips,17
+2/5/2011,Krogers,Sun Chips,47
+2/5/2011,Asda,Pringles,30
+2/5/2011,Asda,Tostitos,38
+2/5/2011,Asda,Lay's,16
+2/5/2011,Asda,Popchips,24
+2/5/2011,Asda,Sun Chips,11
+2/5/2011,Tesco,Pringles,17
+2/5/2011,Tesco,Tostitos,24
+2/5/2011,Tesco,Lay's,47
+2/5/2011,Tesco,Popchips,48
+2/5/2011,Tesco,Sun Chips,32
+2/5/2011,Monte Sereno ,Pringles,19
+2/5/2011,Monte Sereno ,Tostitos,18
+2/5/2011,Monte Sereno ,Lay's,20
+2/5/2011,Monte Sereno ,Popchips,12
+2/5/2011,Monte Sereno ,Sun Chips,30
+2/5/2011,Montecito ,Pringles,41
+2/5/2011,Montecito ,Tostitos,12
+2/5/2011,Montecito ,Lay's,25
+2/5/2011,Montecito ,Popchips,19
+2/5/2011,Montecito ,Sun Chips,30
+2/5/2011,Morrison,Pringles,41
+2/5/2011,Morrison,Tostitos,31
+2/5/2011,Morrison,Lay's,25
+2/5/2011,Morrison,Popchips,14
+2/5/2011,Morrison,Sun Chips,36
+2/5/2011,Piedmont ,Pringles,31
+2/5/2011,Piedmont ,Tostitos,36
+2/5/2011,Piedmont ,Lay's,44
+2/5/2011,Piedmont ,Popchips,44
+2/5/2011,Piedmont ,Sun Chips,13
+2/5/2011,Sainsbury,Pringles,43
+2/5/2011,Sainsbury,Tostitos,39
+2/5/2011,Sainsbury,Lay's,43
+2/5/2011,Sainsbury,Popchips,48
+2/5/2011,Sainsbury,Sun Chips,43
+2/5/2011,Food4Less,Pringles,48
+2/5/2011,Food4Less,Tostitos,10
+2/5/2011,Food4Less,Lay's,16
+2/5/2011,Food4Less,Popchips,17
+2/5/2011,Food4Less,Sun Chips,27
+2/5/2011,Rolling Hills ,Pringles,11
+2/5/2011,Rolling Hills ,Tostitos,22
+2/5/2011,Rolling Hills ,Lay's,18
+2/5/2011,Rolling Hills ,Popchips,10
+2/5/2011,Rolling Hills ,Sun Chips,27
+2/5/2011,Sausalito ,Pringles,49
+2/5/2011,Sausalito ,Tostitos,39
+2/5/2011,Sausalito ,Lay's,10
+2/5/2011,Sausalito ,Popchips,24
+2/5/2011,Sausalito ,Sun Chips,42
+2/5/2011,Tiburon ,Pringles,21
+2/5/2011,Tiburon ,Tostitos,24
+2/5/2011,Tiburon ,Lay's,24
+2/5/2011,Tiburon ,Popchips,16
+2/5/2011,Tiburon ,Sun Chips,36
+2/5/2011,Woodside ,Pringles,23
+2/5/2011,Woodside ,Tostitos,34
+2/5/2011,Woodside ,Lay's,37
+2/5/2011,Woodside ,Popchips,32
+2/5/2011,Woodside ,Sun Chips,11
+2/6/2011,Whole Foods,Pringles,20
+2/6/2011,Whole Foods,Tostitos,48
+2/6/2011,Whole Foods,Lay's,19
+2/6/2011,Whole Foods,Popchips,39
+2/6/2011,Whole Foods,Sun Chips,13
+2/6/2011,Ralphs,Pringles,11
+2/6/2011,Ralphs,Tostitos,21
+2/6/2011,Ralphs,Lay's,36
+2/6/2011,Ralphs,Popchips,10
+2/6/2011,Ralphs,Sun Chips,18
+2/6/2011,Walmart,Pringles,13
+2/6/2011,Walmart,Tostitos,45
+2/6/2011,Walmart,Lay's,30
+2/6/2011,Walmart,Popchips,49
+2/6/2011,Walmart,Sun Chips,12
+2/6/2011,Pavilions,Pringles,45
+2/6/2011,Pavilions,Tostitos,40
+2/6/2011,Pavilions,Lay's,30
+2/6/2011,Pavilions,Popchips,26
+2/6/2011,Pavilions,Sun Chips,11
+2/6/2011,Smiths,Pringles,37
+2/6/2011,Smiths,Tostitos,48
+2/6/2011,Smiths,Lay's,13
+2/6/2011,Smiths,Popchips,45
+2/6/2011,Smiths,Sun Chips,38
+2/6/2011,ALBERTSONS,Pringles,31
+2/6/2011,ALBERTSONS,Tostitos,46
+2/6/2011,ALBERTSONS,Lay's,43
+2/6/2011,ALBERTSONS,Popchips,16
+2/6/2011,ALBERTSONS,Sun Chips,36
+2/6/2011,Hillsborough ,Pringles,11
+2/6/2011,Hillsborough ,Tostitos,50
+2/6/2011,Hillsborough ,Lay's,16
+2/6/2011,Hillsborough ,Popchips,11
+2/6/2011,Hillsborough ,Sun Chips,40
+2/6/2011,Krogers,Pringles,13
+2/6/2011,Krogers,Tostitos,43
+2/6/2011,Krogers,Lay's,13
+2/6/2011,Krogers,Popchips,20
+2/6/2011,Krogers,Sun Chips,12
+2/6/2011,Asda,Pringles,38
+2/6/2011,Asda,Tostitos,12
+2/6/2011,Asda,Lay's,24
+2/6/2011,Asda,Popchips,46
+2/6/2011,Asda,Sun Chips,47
+2/6/2011,Tesco,Pringles,49
+2/6/2011,Tesco,Tostitos,41
+2/6/2011,Tesco,Lay's,46
+2/6/2011,Tesco,Popchips,11
+2/6/2011,Tesco,Sun Chips,12
+2/6/2011,Monte Sereno ,Pringles,40
+2/6/2011,Monte Sereno ,Tostitos,45
+2/6/2011,Monte Sereno ,Lay's,16
+2/6/2011,Monte Sereno ,Popchips,45
+2/6/2011,Monte Sereno ,Sun Chips,24
+2/6/2011,Montecito ,Pringles,44
+2/6/2011,Montecito ,Tostitos,35
+2/6/2011,Montecito ,Lay's,21
+2/6/2011,Montecito ,Popchips,27
+2/6/2011,Montecito ,Sun Chips,27
+2/6/2011,Morrison,Pringles,39
+2/6/2011,Morrison,Tostitos,12
+2/6/2011,Morrison,Lay's,47
+2/6/2011,Morrison,Popchips,42
+2/6/2011,Morrison,Sun Chips,22
+2/6/2011,Piedmont ,Pringles,39
+2/6/2011,Piedmont ,Tostitos,36
+2/6/2011,Piedmont ,Lay's,13
+2/6/2011,Piedmont ,Popchips,27
+2/6/2011,Piedmont ,Sun Chips,41
+2/6/2011,Sainsbury,Pringles,39
+2/6/2011,Sainsbury,Tostitos,32
+2/6/2011,Sainsbury,Lay's,43
+2/6/2011,Sainsbury,Popchips,34
+2/6/2011,Sainsbury,Sun Chips,20
+2/6/2011,Food4Less,Pringles,14
+2/6/2011,Food4Less,Tostitos,14
+2/6/2011,Food4Less,Lay's,42
+2/6/2011,Food4Less,Popchips,36
+2/6/2011,Food4Less,Sun Chips,11
+2/6/2011,Rolling Hills ,Pringles,49
+2/6/2011,Rolling Hills ,Tostitos,33
+2/6/2011,Rolling Hills ,Lay's,10
+2/6/2011,Rolling Hills ,Popchips,18
+2/6/2011,Rolling Hills ,Sun Chips,50
+2/6/2011,Sausalito ,Pringles,10
+2/6/2011,Sausalito ,Tostitos,36
+2/6/2011,Sausalito ,Lay's,35
+2/6/2011,Sausalito ,Popchips,25
+2/6/2011,Sausalito ,Sun Chips,13
+2/6/2011,Tiburon ,Pringles,16
+2/6/2011,Tiburon ,Tostitos,34
+2/6/2011,Tiburon ,Lay's,17
+2/6/2011,Tiburon ,Popchips,37
+2/6/2011,Tiburon ,Sun Chips,34
+2/6/2011,Woodside ,Pringles,43
+2/6/2011,Woodside ,Tostitos,17
+2/6/2011,Woodside ,Lay's,46
+2/6/2011,Woodside ,Popchips,23
+2/6/2011,Woodside ,Sun Chips,43
+2/7/2011,Whole Foods,Pringles,47
+2/7/2011,Whole Foods,Tostitos,15
+2/7/2011,Whole Foods,Lay's,28
+2/7/2011,Whole Foods,Popchips,44
+2/7/2011,Whole Foods,Sun Chips,14
+2/7/2011,Ralphs,Pringles,45
+2/7/2011,Ralphs,Tostitos,19
+2/7/2011,Ralphs,Lay's,38
+2/7/2011,Ralphs,Popchips,26
+2/7/2011,Ralphs,Sun Chips,40
+2/7/2011,Walmart,Pringles,26
+2/7/2011,Walmart,Tostitos,28
+2/7/2011,Walmart,Lay's,43
+2/7/2011,Walmart,Popchips,47
+2/7/2011,Walmart,Sun Chips,24
+2/7/2011,Pavilions,Pringles,44
+2/7/2011,Pavilions,Tostitos,40
+2/7/2011,Pavilions,Lay's,15
+2/7/2011,Pavilions,Popchips,10
+2/7/2011,Pavilions,Sun Chips,38
+2/7/2011,Smiths,Pringles,49
+2/7/2011,Smiths,Tostitos,41
+2/7/2011,Smiths,Lay's,24
+2/7/2011,Smiths,Popchips,19
+2/7/2011,Smiths,Sun Chips,40
+2/7/2011,ALBERTSONS,Pringles,15
+2/7/2011,ALBERTSONS,Tostitos,16
+2/7/2011,ALBERTSONS,Lay's,13
+2/7/2011,ALBERTSONS,Popchips,26
+2/7/2011,ALBERTSONS,Sun Chips,31
+2/7/2011,Hillsborough ,Pringles,13
+2/7/2011,Hillsborough ,Tostitos,33
+2/7/2011,Hillsborough ,Lay's,24
+2/7/2011,Hillsborough ,Popchips,27
+2/7/2011,Hillsborough ,Sun Chips,39
+2/7/2011,Krogers,Pringles,43
+2/7/2011,Krogers,Tostitos,19
+2/7/2011,Krogers,Lay's,45
+2/7/2011,Krogers,Popchips,14
+2/7/2011,Krogers,Sun Chips,44
+2/7/2011,Asda,Pringles,33
+2/7/2011,Asda,Tostitos,15
+2/7/2011,Asda,Lay's,34
+2/7/2011,Asda,Popchips,49
+2/7/2011,Asda,Sun Chips,37
+2/7/2011,Tesco,Pringles,45
+2/7/2011,Tesco,Tostitos,37
+2/7/2011,Tesco,Lay's,23
+2/7/2011,Tesco,Popchips,32
+2/7/2011,Tesco,Sun Chips,44
+2/7/2011,Monte Sereno ,Pringles,24
+2/7/2011,Monte Sereno ,Tostitos,25
+2/7/2011,Monte Sereno ,Lay's,48
+2/7/2011,Monte Sereno ,Popchips,13
+2/7/2011,Monte Sereno ,Sun Chips,10
+2/7/2011,Montecito ,Pringles,35
+2/7/2011,Montecito ,Tostitos,13
+2/7/2011,Montecito ,Lay's,34
+2/7/2011,Montecito ,Popchips,22
+2/7/2011,Montecito ,Sun Chips,20
+2/7/2011,Morrison,Pringles,34
+2/7/2011,Morrison,Tostitos,34
+2/7/2011,Morrison,Lay's,18
+2/7/2011,Morrison,Popchips,49
+2/7/2011,Morrison,Sun Chips,21
+2/7/2011,Piedmont ,Pringles,30
+2/7/2011,Piedmont ,Tostitos,40
+2/7/2011,Piedmont ,Lay's,18
+2/7/2011,Piedmont ,Popchips,14
+2/7/2011,Piedmont ,Sun Chips,28
+2/7/2011,Sainsbury,Pringles,32
+2/7/2011,Sainsbury,Tostitos,31
+2/7/2011,Sainsbury,Lay's,28
+2/7/2011,Sainsbury,Popchips,38
+2/7/2011,Sainsbury,Sun Chips,43
+2/7/2011,Food4Less,Pringles,13
+2/7/2011,Food4Less,Tostitos,31
+2/7/2011,Food4Less,Lay's,28
+2/7/2011,Food4Less,Popchips,36
+2/7/2011,Food4Less,Sun Chips,45
+2/7/2011,Rolling Hills ,Pringles,48
+2/7/2011,Rolling Hills ,Tostitos,10
+2/7/2011,Rolling Hills ,Lay's,50
+2/7/2011,Rolling Hills ,Popchips,49
+2/7/2011,Rolling Hills ,Sun Chips,43
+2/7/2011,Sausalito ,Pringles,31
+2/7/2011,Sausalito ,Tostitos,36
+2/7/2011,Sausalito ,Lay's,24
+2/7/2011,Sausalito ,Popchips,17
+2/7/2011,Sausalito ,Sun Chips,17
+2/7/2011,Tiburon ,Pringles,15
+2/7/2011,Tiburon ,Tostitos,48
+2/7/2011,Tiburon ,Lay's,32
+2/7/2011,Tiburon ,Popchips,21
+2/7/2011,Tiburon ,Sun Chips,33
+2/7/2011,Woodside ,Pringles,28
+2/7/2011,Woodside ,Tostitos,16
+2/7/2011,Woodside ,Lay's,48
+2/7/2011,Woodside ,Popchips,15
+2/7/2011,Woodside ,Sun Chips,45
+2/8/2011,Whole Foods,Pringles,36
+2/8/2011,Whole Foods,Tostitos,38
+2/8/2011,Whole Foods,Lay's,49
+2/8/2011,Whole Foods,Popchips,31
+2/8/2011,Whole Foods,Sun Chips,36
+2/8/2011,Ralphs,Pringles,35
+2/8/2011,Ralphs,Tostitos,29
+2/8/2011,Ralphs,Lay's,26
+2/8/2011,Ralphs,Popchips,40
+2/8/2011,Ralphs,Sun Chips,21
+2/8/2011,Walmart,Pringles,43
+2/8/2011,Walmart,Tostitos,32
+2/8/2011,Walmart,Lay's,48
+2/8/2011,Walmart,Popchips,16
+2/8/2011,Walmart,Sun Chips,17
+2/8/2011,Pavilions,Pringles,18
+2/8/2011,Pavilions,Tostitos,15
+2/8/2011,Pavilions,Lay's,17
+2/8/2011,Pavilions,Popchips,25
+2/8/2011,Pavilions,Sun Chips,25
+2/8/2011,Smiths,Pringles,40
+2/8/2011,Smiths,Tostitos,48
+2/8/2011,Smiths,Lay's,21
+2/8/2011,Smiths,Popchips,34
+2/8/2011,Smiths,Sun Chips,22
+2/8/2011,ALBERTSONS,Pringles,39
+2/8/2011,ALBERTSONS,Tostitos,38
+2/8/2011,ALBERTSONS,Lay's,43
+2/8/2011,ALBERTSONS,Popchips,42
+2/8/2011,ALBERTSONS,Sun Chips,14
+2/8/2011,Hillsborough ,Pringles,22
+2/8/2011,Hillsborough ,Tostitos,50
+2/8/2011,Hillsborough ,Lay's,13
+2/8/2011,Hillsborough ,Popchips,32
+2/8/2011,Hillsborough ,Sun Chips,26
+2/8/2011,Krogers,Pringles,28
+2/8/2011,Krogers,Tostitos,30
+2/8/2011,Krogers,Lay's,24
+2/8/2011,Krogers,Popchips,38
+2/8/2011,Krogers,Sun Chips,22
+2/8/2011,Asda,Pringles,34
+2/8/2011,Asda,Tostitos,17
+2/8/2011,Asda,Lay's,13
+2/8/2011,Asda,Popchips,11
+2/8/2011,Asda,Sun Chips,44
+2/8/2011,Tesco,Pringles,24
+2/8/2011,Tesco,Tostitos,14
+2/8/2011,Tesco,Lay's,32
+2/8/2011,Tesco,Popchips,11
+2/8/2011,Tesco,Sun Chips,22
+2/8/2011,Monte Sereno ,Pringles,18
+2/8/2011,Monte Sereno ,Tostitos,30
+2/8/2011,Monte Sereno ,Lay's,17
+2/8/2011,Monte Sereno ,Popchips,35
+2/8/2011,Monte Sereno ,Sun Chips,25
+2/8/2011,Montecito ,Pringles,48
+2/8/2011,Montecito ,Tostitos,45
+2/8/2011,Montecito ,Lay's,36
+2/8/2011,Montecito ,Popchips,16
+2/8/2011,Montecito ,Sun Chips,45
+2/8/2011,Morrison,Pringles,18
+2/8/2011,Morrison,Tostitos,18
+2/8/2011,Morrison,Lay's,31
+2/8/2011,Morrison,Popchips,44
+2/8/2011,Morrison,Sun Chips,29
+2/8/2011,Piedmont ,Pringles,37
+2/8/2011,Piedmont ,Tostitos,43
+2/8/2011,Piedmont ,Lay's,42
+2/8/2011,Piedmont ,Popchips,15
+2/8/2011,Piedmont ,Sun Chips,18
+2/8/2011,Sainsbury,Pringles,42
+2/8/2011,Sainsbury,Tostitos,24
+2/8/2011,Sainsbury,Lay's,19
+2/8/2011,Sainsbury,Popchips,10
+2/8/2011,Sainsbury,Sun Chips,36
+2/8/2011,Food4Less,Pringles,25
+2/8/2011,Food4Less,Tostitos,27
+2/8/2011,Food4Less,Lay's,50
+2/8/2011,Food4Less,Popchips,31
+2/8/2011,Food4Less,Sun Chips,38
+2/8/2011,Rolling Hills ,Pringles,11
+2/8/2011,Rolling Hills ,Tostitos,37
+2/8/2011,Rolling Hills ,Lay's,16
+2/8/2011,Rolling Hills ,Popchips,47
+2/8/2011,Rolling Hills ,Sun Chips,12
+2/8/2011,Sausalito ,Pringles,47
+2/8/2011,Sausalito ,Tostitos,48
+2/8/2011,Sausalito ,Lay's,31
+2/8/2011,Sausalito ,Popchips,31
+2/8/2011,Sausalito ,Sun Chips,39
+2/8/2011,Tiburon ,Pringles,50
+2/8/2011,Tiburon ,Tostitos,42
+2/8/2011,Tiburon ,Lay's,24
+2/8/2011,Tiburon ,Popchips,14
+2/8/2011,Tiburon ,Sun Chips,11
+2/8/2011,Woodside ,Pringles,15
+2/8/2011,Woodside ,Tostitos,35
+2/8/2011,Woodside ,Lay's,38
+2/8/2011,Woodside ,Popchips,47
+2/8/2011,Woodside ,Sun Chips,10
+2/9/2011,Whole Foods,Pringles,33
+2/9/2011,Whole Foods,Tostitos,50
+2/9/2011,Whole Foods,Lay's,28
+2/9/2011,Whole Foods,Popchips,44
+2/9/2011,Whole Foods,Sun Chips,17
+2/9/2011,Ralphs,Pringles,39
+2/9/2011,Ralphs,Tostitos,28
+2/9/2011,Ralphs,Lay's,47
+2/9/2011,Ralphs,Popchips,14
+2/9/2011,Ralphs,Sun Chips,43
+2/9/2011,Walmart,Pringles,37
+2/9/2011,Walmart,Tostitos,12
+2/9/2011,Walmart,Lay's,33
+2/9/2011,Walmart,Popchips,16
+2/9/2011,Walmart,Sun Chips,29
+2/9/2011,Pavilions,Pringles,35
+2/9/2011,Pavilions,Tostitos,37
+2/9/2011,Pavilions,Lay's,10
+2/9/2011,Pavilions,Popchips,16
+2/9/2011,Pavilions,Sun Chips,20
+2/9/2011,Smiths,Pringles,39
+2/9/2011,Smiths,Tostitos,12
+2/9/2011,Smiths,Lay's,27
+2/9/2011,Smiths,Popchips,41
+2/9/2011,Smiths,Sun Chips,31
+2/9/2011,ALBERTSONS,Pringles,32
+2/9/2011,ALBERTSONS,Tostitos,38
+2/9/2011,ALBERTSONS,Lay's,33
+2/9/2011,ALBERTSONS,Popchips,45
+2/9/2011,ALBERTSONS,Sun Chips,16
+2/9/2011,Hillsborough ,Pringles,47
+2/9/2011,Hillsborough ,Tostitos,33
+2/9/2011,Hillsborough ,Lay's,35
+2/9/2011,Hillsborough ,Popchips,17
+2/9/2011,Hillsborough ,Sun Chips,42
+2/9/2011,Krogers,Pringles,48
+2/9/2011,Krogers,Tostitos,25
+2/9/2011,Krogers,Lay's,17
+2/9/2011,Krogers,Popchips,34
+2/9/2011,Krogers,Sun Chips,32
+2/9/2011,Asda,Pringles,44
+2/9/2011,Asda,Tostitos,38
+2/9/2011,Asda,Lay's,23
+2/9/2011,Asda,Popchips,41
+2/9/2011,Asda,Sun Chips,12
+2/9/2011,Tesco,Pringles,25
+2/9/2011,Tesco,Tostitos,49
+2/9/2011,Tesco,Lay's,44
+2/9/2011,Tesco,Popchips,21
+2/9/2011,Tesco,Sun Chips,14
+2/9/2011,Monte Sereno ,Pringles,39
+2/9/2011,Monte Sereno ,Tostitos,50
+2/9/2011,Monte Sereno ,Lay's,35
+2/9/2011,Monte Sereno ,Popchips,49
+2/9/2011,Monte Sereno ,Sun Chips,45
+2/9/2011,Montecito ,Pringles,31
+2/9/2011,Montecito ,Tostitos,36
+2/9/2011,Montecito ,Lay's,13
+2/9/2011,Montecito ,Popchips,22
+2/9/2011,Montecito ,Sun Chips,50
+2/9/2011,Morrison,Pringles,15
+2/9/2011,Morrison,Tostitos,23
+2/9/2011,Morrison,Lay's,49
+2/9/2011,Morrison,Popchips,16
+2/9/2011,Morrison,Sun Chips,31
+2/9/2011,Piedmont ,Pringles,15
+2/9/2011,Piedmont ,Tostitos,20
+2/9/2011,Piedmont ,Lay's,10
+2/9/2011,Piedmont ,Popchips,35
+2/9/2011,Piedmont ,Sun Chips,17
+2/9/2011,Sainsbury,Pringles,13
+2/9/2011,Sainsbury,Tostitos,41
+2/9/2011,Sainsbury,Lay's,46
+2/9/2011,Sainsbury,Popchips,13
+2/9/2011,Sainsbury,Sun Chips,15
+2/9/2011,Food4Less,Pringles,23
+2/9/2011,Food4Less,Tostitos,29
+2/9/2011,Food4Less,Lay's,19
+2/9/2011,Food4Less,Popchips,44
+2/9/2011,Food4Less,Sun Chips,14
+2/9/2011,Rolling Hills ,Pringles,14
+2/9/2011,Rolling Hills ,Tostitos,35
+2/9/2011,Rolling Hills ,Lay's,10
+2/9/2011,Rolling Hills ,Popchips,40
+2/9/2011,Rolling Hills ,Sun Chips,15
+2/9/2011,Sausalito ,Pringles,36
+2/9/2011,Sausalito ,Tostitos,34
+2/9/2011,Sausalito ,Lay's,39
+2/9/2011,Sausalito ,Popchips,20
+2/9/2011,Sausalito ,Sun Chips,35
+2/9/2011,Tiburon ,Pringles,39
+2/9/2011,Tiburon ,Tostitos,47
+2/9/2011,Tiburon ,Lay's,42
+2/9/2011,Tiburon ,Popchips,22
+2/9/2011,Tiburon ,Sun Chips,11
+2/9/2011,Woodside ,Pringles,35
+2/9/2011,Woodside ,Tostitos,15
+2/9/2011,Woodside ,Lay's,47
+2/9/2011,Woodside ,Popchips,29
+2/9/2011,Woodside ,Sun Chips,27
+2/10/2011,Whole Foods,Pringles,41
+2/10/2011,Whole Foods,Tostitos,17
+2/10/2011,Whole Foods,Lay's,29
+2/10/2011,Whole Foods,Popchips,49
+2/10/2011,Whole Foods,Sun Chips,33
+2/10/2011,Ralphs,Pringles,12
+2/10/2011,Ralphs,Tostitos,44
+2/10/2011,Ralphs,Lay's,15
+2/10/2011,Ralphs,Popchips,28
+2/10/2011,Ralphs,Sun Chips,46
+2/10/2011,Walmart,Pringles,47
+2/10/2011,Walmart,Tostitos,47
+2/10/2011,Walmart,Lay's,24
+2/10/2011,Walmart,Popchips,27
+2/10/2011,Walmart,Sun Chips,11
+2/10/2011,Pavilions,Pringles,30
+2/10/2011,Pavilions,Tostitos,38
+2/10/2011,Pavilions,Lay's,47
+2/10/2011,Pavilions,Popchips,38
+2/10/2011,Pavilions,Sun Chips,21
+2/10/2011,Smiths,Pringles,28
+2/10/2011,Smiths,Tostitos,25
+2/10/2011,Smiths,Lay's,42
+2/10/2011,Smiths,Popchips,42
+2/10/2011,Smiths,Sun Chips,48
+2/10/2011,ALBERTSONS,Pringles,22
+2/10/2011,ALBERTSONS,Tostitos,30
+2/10/2011,ALBERTSONS,Lay's,40
+2/10/2011,ALBERTSONS,Popchips,14
+2/10/2011,ALBERTSONS,Sun Chips,11
+2/10/2011,Hillsborough ,Pringles,20
+2/10/2011,Hillsborough ,Tostitos,38
+2/10/2011,Hillsborough ,Lay's,13
+2/10/2011,Hillsborough ,Popchips,30
+2/10/2011,Hillsborough ,Sun Chips,21
+2/10/2011,Krogers,Pringles,11
+2/10/2011,Krogers,Tostitos,19
+2/10/2011,Krogers,Lay's,23
+2/10/2011,Krogers,Popchips,50
+2/10/2011,Krogers,Sun Chips,10
+2/10/2011,Asda,Pringles,26
+2/10/2011,Asda,Tostitos,21
+2/10/2011,Asda,Lay's,17
+2/10/2011,Asda,Popchips,48
+2/10/2011,Asda,Sun Chips,20
+2/10/2011,Tesco,Pringles,41
+2/10/2011,Tesco,Tostitos,40
+2/10/2011,Tesco,Lay's,23
+2/10/2011,Tesco,Popchips,21
+2/10/2011,Tesco,Sun Chips,10
+2/10/2011,Monte Sereno ,Pringles,34
+2/10/2011,Monte Sereno ,Tostitos,48
+2/10/2011,Monte Sereno ,Lay's,28
+2/10/2011,Monte Sereno ,Popchips,10
+2/10/2011,Monte Sereno ,Sun Chips,46
+2/10/2011,Montecito ,Pringles,25
+2/10/2011,Montecito ,Tostitos,38
+2/10/2011,Montecito ,Lay's,31
+2/10/2011,Montecito ,Popchips,16
+2/10/2011,Montecito ,Sun Chips,46
+2/10/2011,Morrison,Pringles,45
+2/10/2011,Morrison,Tostitos,28
+2/10/2011,Morrison,Lay's,36
+2/10/2011,Morrison,Popchips,10
+2/10/2011,Morrison,Sun Chips,47
+2/10/2011,Piedmont ,Pringles,17
+2/10/2011,Piedmont ,Tostitos,26
+2/10/2011,Piedmont ,Lay's,15
+2/10/2011,Piedmont ,Popchips,18
+2/10/2011,Piedmont ,Sun Chips,17
+2/10/2011,Sainsbury,Pringles,42
+2/10/2011,Sainsbury,Tostitos,49
+2/10/2011,Sainsbury,Lay's,14
+2/10/2011,Sainsbury,Popchips,50
+2/10/2011,Sainsbury,Sun Chips,43
+2/10/2011,Food4Less,Pringles,26
+2/10/2011,Food4Less,Tostitos,30
+2/10/2011,Food4Less,Lay's,44
+2/10/2011,Food4Less,Popchips,17
+2/10/2011,Food4Less,Sun Chips,47
+2/10/2011,Rolling Hills ,Pringles,22
+2/10/2011,Rolling Hills ,Tostitos,19
+2/10/2011,Rolling Hills ,Lay's,45
+2/10/2011,Rolling Hills ,Popchips,11
+2/10/2011,Rolling Hills ,Sun Chips,15
+2/10/2011,Sausalito ,Pringles,12
+2/10/2011,Sausalito ,Tostitos,37
+2/10/2011,Sausalito ,Lay's,32
+2/10/2011,Sausalito ,Popchips,37
+2/10/2011,Sausalito ,Sun Chips,32
+2/10/2011,Tiburon ,Pringles,23
+2/10/2011,Tiburon ,Tostitos,34
+2/10/2011,Tiburon ,Lay's,41
+2/10/2011,Tiburon ,Popchips,14
+2/10/2011,Tiburon ,Sun Chips,30
+2/10/2011,Woodside ,Pringles,19
+2/10/2011,Woodside ,Tostitos,26
+2/10/2011,Woodside ,Lay's,27
+2/10/2011,Woodside ,Popchips,16
+2/10/2011,Woodside ,Sun Chips,41
+2/11/2011,Whole Foods,Pringles,28
+2/11/2011,Whole Foods,Tostitos,20
+2/11/2011,Whole Foods,Lay's,19
+2/11/2011,Whole Foods,Popchips,30
+2/11/2011,Whole Foods,Sun Chips,46
+2/11/2011,Ralphs,Pringles,12
+2/11/2011,Ralphs,Tostitos,29
+2/11/2011,Ralphs,Lay's,24
+2/11/2011,Ralphs,Popchips,16
+2/11/2011,Ralphs,Sun Chips,17
+2/11/2011,Walmart,Pringles,16
+2/11/2011,Walmart,Tostitos,50
+2/11/2011,Walmart,Lay's,18
+2/11/2011,Walmart,Popchips,17
+2/11/2011,Walmart,Sun Chips,38
+2/11/2011,Pavilions,Pringles,37
+2/11/2011,Pavilions,Tostitos,39
+2/11/2011,Pavilions,Lay's,10
+2/11/2011,Pavilions,Popchips,48
+2/11/2011,Pavilions,Sun Chips,12
+2/11/2011,Smiths,Pringles,35
+2/11/2011,Smiths,Tostitos,37
+2/11/2011,Smiths,Lay's,47
+2/11/2011,Smiths,Popchips,33
+2/11/2011,Smiths,Sun Chips,38
+2/11/2011,ALBERTSONS,Pringles,30
+2/11/2011,ALBERTSONS,Tostitos,49
+2/11/2011,ALBERTSONS,Lay's,20
+2/11/2011,ALBERTSONS,Popchips,10
+2/11/2011,ALBERTSONS,Sun Chips,24
+2/11/2011,Hillsborough ,Pringles,27
+2/11/2011,Hillsborough ,Tostitos,12
+2/11/2011,Hillsborough ,Lay's,42
+2/11/2011,Hillsborough ,Popchips,16
+2/11/2011,Hillsborough ,Sun Chips,34
+2/11/2011,Krogers,Pringles,19
+2/11/2011,Krogers,Tostitos,30
+2/11/2011,Krogers,Lay's,41
+2/11/2011,Krogers,Popchips,38
+2/11/2011,Krogers,Sun Chips,39
+2/11/2011,Asda,Pringles,16
+2/11/2011,Asda,Tostitos,27
+2/11/2011,Asda,Lay's,31
+2/11/2011,Asda,Popchips,25
+2/11/2011,Asda,Sun Chips,12
+2/11/2011,Tesco,Pringles,22
+2/11/2011,Tesco,Tostitos,50
+2/11/2011,Tesco,Lay's,46
+2/11/2011,Tesco,Popchips,28
+2/11/2011,Tesco,Sun Chips,21
+2/11/2011,Monte Sereno ,Pringles,25
+2/11/2011,Monte Sereno ,Tostitos,23
+2/11/2011,Monte Sereno ,Lay's,25
+2/11/2011,Monte Sereno ,Popchips,24
+2/11/2011,Monte Sereno ,Sun Chips,29
+2/11/2011,Montecito ,Pringles,18
+2/11/2011,Montecito ,Tostitos,36
+2/11/2011,Montecito ,Lay's,23
+2/11/2011,Montecito ,Popchips,41
+2/11/2011,Montecito ,Sun Chips,11
+2/11/2011,Morrison,Pringles,21
+2/11/2011,Morrison,Tostitos,43
+2/11/2011,Morrison,Lay's,48
+2/11/2011,Morrison,Popchips,49
+2/11/2011,Morrison,Sun Chips,45
+2/11/2011,Piedmont ,Pringles,23
+2/11/2011,Piedmont ,Tostitos,24
+2/11/2011,Piedmont ,Lay's,43
+2/11/2011,Piedmont ,Popchips,39
+2/11/2011,Piedmont ,Sun Chips,31
+2/11/2011,Sainsbury,Pringles,46
+2/11/2011,Sainsbury,Tostitos,23
+2/11/2011,Sainsbury,Lay's,27
+2/11/2011,Sainsbury,Popchips,31
+2/11/2011,Sainsbury,Sun Chips,50
+2/11/2011,Food4Less,Pringles,12
+2/11/2011,Food4Less,Tostitos,17
+2/11/2011,Food4Less,Lay's,49
+2/11/2011,Food4Less,Popchips,25
+2/11/2011,Food4Less,Sun Chips,11
+2/11/2011,Rolling Hills ,Pringles,49
+2/11/2011,Rolling Hills ,Tostitos,36
+2/11/2011,Rolling Hills ,Lay's,12
+2/11/2011,Rolling Hills ,Popchips,18
+2/11/2011,Rolling Hills ,Sun Chips,23
+2/11/2011,Sausalito ,Pringles,10
+2/11/2011,Sausalito ,Tostitos,34
+2/11/2011,Sausalito ,Lay's,46
+2/11/2011,Sausalito ,Popchips,49
+2/11/2011,Sausalito ,Sun Chips,17
+2/11/2011,Tiburon ,Pringles,46
+2/11/2011,Tiburon ,Tostitos,28
+2/11/2011,Tiburon ,Lay's,19
+2/11/2011,Tiburon ,Popchips,32
+2/11/2011,Tiburon ,Sun Chips,11
+2/11/2011,Woodside ,Pringles,18
+2/11/2011,Woodside ,Tostitos,13
+2/11/2011,Woodside ,Lay's,45
+2/11/2011,Woodside ,Popchips,49
+2/11/2011,Woodside ,Sun Chips,28
+2/12/2011,Whole Foods,Pringles,18
+2/12/2011,Whole Foods,Tostitos,22
+2/12/2011,Whole Foods,Lay's,50
+2/12/2011,Whole Foods,Popchips,48
+2/12/2011,Whole Foods,Sun Chips,28
+2/12/2011,Ralphs,Pringles,42
+2/12/2011,Ralphs,Tostitos,30
+2/12/2011,Ralphs,Lay's,44
+2/12/2011,Ralphs,Popchips,15
+2/12/2011,Ralphs,Sun Chips,45
+2/12/2011,Walmart,Pringles,11
+2/12/2011,Walmart,Tostitos,43
+2/12/2011,Walmart,Lay's,40
+2/12/2011,Walmart,Popchips,27
+2/12/2011,Walmart,Sun Chips,50
+2/12/2011,Pavilions,Pringles,24
+2/12/2011,Pavilions,Tostitos,23
+2/12/2011,Pavilions,Lay's,38
+2/12/2011,Pavilions,Popchips,39
+2/12/2011,Pavilions,Sun Chips,41
+2/12/2011,Smiths,Pringles,44
+2/12/2011,Smiths,Tostitos,50
+2/12/2011,Smiths,Lay's,22
+2/12/2011,Smiths,Popchips,14
+2/12/2011,Smiths,Sun Chips,23
+2/12/2011,ALBERTSONS,Pringles,47
+2/12/2011,ALBERTSONS,Tostitos,41
+2/12/2011,ALBERTSONS,Lay's,23
+2/12/2011,ALBERTSONS,Popchips,41
+2/12/2011,ALBERTSONS,Sun Chips,46
+2/12/2011,Hillsborough ,Pringles,28
+2/12/2011,Hillsborough ,Tostitos,32
+2/12/2011,Hillsborough ,Lay's,14
+2/12/2011,Hillsborough ,Popchips,36
+2/12/2011,Hillsborough ,Sun Chips,43
+2/12/2011,Krogers,Pringles,23
+2/12/2011,Krogers,Tostitos,17
+2/12/2011,Krogers,Lay's,32
+2/12/2011,Krogers,Popchips,46
+2/12/2011,Krogers,Sun Chips,14
+2/12/2011,Asda,Pringles,19
+2/12/2011,Asda,Tostitos,46
+2/12/2011,Asda,Lay's,48
+2/12/2011,Asda,Popchips,13
+2/12/2011,Asda,Sun Chips,18
+2/12/2011,Tesco,Pringles,16
+2/12/2011,Tesco,Tostitos,13
+2/12/2011,Tesco,Lay's,12
+2/12/2011,Tesco,Popchips,49
+2/12/2011,Tesco,Sun Chips,16
+2/12/2011,Monte Sereno ,Pringles,44
+2/12/2011,Monte Sereno ,Tostitos,17
+2/12/2011,Monte Sereno ,Lay's,45
+2/12/2011,Monte Sereno ,Popchips,39
+2/12/2011,Monte Sereno ,Sun Chips,17
+2/12/2011,Montecito ,Pringles,20
+2/12/2011,Montecito ,Tostitos,17
+2/12/2011,Montecito ,Lay's,11
+2/12/2011,Montecito ,Popchips,39
+2/12/2011,Montecito ,Sun Chips,47
+2/12/2011,Morrison,Pringles,33
+2/12/2011,Morrison,Tostitos,31
+2/12/2011,Morrison,Lay's,23
+2/12/2011,Morrison,Popchips,40
+2/12/2011,Morrison,Sun Chips,37
+2/12/2011,Piedmont ,Pringles,20
+2/12/2011,Piedmont ,Tostitos,17
+2/12/2011,Piedmont ,Lay's,29
+2/12/2011,Piedmont ,Popchips,34
+2/12/2011,Piedmont ,Sun Chips,32
+2/12/2011,Sainsbury,Pringles,21
+2/12/2011,Sainsbury,Tostitos,24
+2/12/2011,Sainsbury,Lay's,21
+2/12/2011,Sainsbury,Popchips,42
+2/12/2011,Sainsbury,Sun Chips,14
+2/12/2011,Food4Less,Pringles,38
+2/12/2011,Food4Less,Tostitos,37
+2/12/2011,Food4Less,Lay's,13
+2/12/2011,Food4Less,Popchips,30
+2/12/2011,Food4Less,Sun Chips,29
+2/12/2011,Rolling Hills ,Pringles,15
+2/12/2011,Rolling Hills ,Tostitos,17
+2/12/2011,Rolling Hills ,Lay's,28
+2/12/2011,Rolling Hills ,Popchips,34
+2/12/2011,Rolling Hills ,Sun Chips,20
+2/12/2011,Sausalito ,Pringles,22
+2/12/2011,Sausalito ,Tostitos,41
+2/12/2011,Sausalito ,Lay's,23
+2/12/2011,Sausalito ,Popchips,43
+2/12/2011,Sausalito ,Sun Chips,34
+2/12/2011,Tiburon ,Pringles,34
+2/12/2011,Tiburon ,Tostitos,44
+2/12/2011,Tiburon ,Lay's,37
+2/12/2011,Tiburon ,Popchips,49
+2/12/2011,Tiburon ,Sun Chips,21
+2/12/2011,Woodside ,Pringles,37
+2/12/2011,Woodside ,Tostitos,21
+2/12/2011,Woodside ,Lay's,19
+2/12/2011,Woodside ,Popchips,42
+2/12/2011,Woodside ,Sun Chips,41
+2/13/2011,Whole Foods,Pringles,38
+2/13/2011,Whole Foods,Tostitos,19
+2/13/2011,Whole Foods,Lay's,18
+2/13/2011,Whole Foods,Popchips,30
+2/13/2011,Whole Foods,Sun Chips,40
+2/13/2011,Ralphs,Pringles,45
+2/13/2011,Ralphs,Tostitos,43
+2/13/2011,Ralphs,Lay's,39
+2/13/2011,Ralphs,Popchips,37
+2/13/2011,Ralphs,Sun Chips,12
+2/13/2011,Walmart,Pringles,31
+2/13/2011,Walmart,Tostitos,28
+2/13/2011,Walmart,Lay's,21
+2/13/2011,Walmart,Popchips,24
+2/13/2011,Walmart,Sun Chips,20
+2/13/2011,Pavilions,Pringles,19
+2/13/2011,Pavilions,Tostitos,34
+2/13/2011,Pavilions,Lay's,21
+2/13/2011,Pavilions,Popchips,35
+2/13/2011,Pavilions,Sun Chips,35
+2/13/2011,Smiths,Pringles,10
+2/13/2011,Smiths,Tostitos,17
+2/13/2011,Smiths,Lay's,25
+2/13/2011,Smiths,Popchips,39
+2/13/2011,Smiths,Sun Chips,33
+2/13/2011,ALBERTSONS,Pringles,43
+2/13/2011,ALBERTSONS,Tostitos,14
+2/13/2011,ALBERTSONS,Lay's,26
+2/13/2011,ALBERTSONS,Popchips,26
+2/13/2011,ALBERTSONS,Sun Chips,39
+2/13/2011,Hillsborough ,Pringles,33
+2/13/2011,Hillsborough ,Tostitos,32
+2/13/2011,Hillsborough ,Lay's,42
+2/13/2011,Hillsborough ,Popchips,34
+2/13/2011,Hillsborough ,Sun Chips,41
+2/13/2011,Krogers,Pringles,34
+2/13/2011,Krogers,Tostitos,44
+2/13/2011,Krogers,Lay's,49
+2/13/2011,Krogers,Popchips,36
+2/13/2011,Krogers,Sun Chips,50
+2/13/2011,Asda,Pringles,23
+2/13/2011,Asda,Tostitos,20
+2/13/2011,Asda,Lay's,38
+2/13/2011,Asda,Popchips,44
+2/13/2011,Asda,Sun Chips,10
+2/13/2011,Tesco,Pringles,27
+2/13/2011,Tesco,Tostitos,39
+2/13/2011,Tesco,Lay's,28
+2/13/2011,Tesco,Popchips,49
+2/13/2011,Tesco,Sun Chips,44
+2/13/2011,Monte Sereno ,Pringles,15
+2/13/2011,Monte Sereno ,Tostitos,41
+2/13/2011,Monte Sereno ,Lay's,28
+2/13/2011,Monte Sereno ,Popchips,28
+2/13/2011,Monte Sereno ,Sun Chips,46
+2/13/2011,Montecito ,Pringles,22
+2/13/2011,Montecito ,Tostitos,27
+2/13/2011,Montecito ,Lay's,17
+2/13/2011,Montecito ,Popchips,39
+2/13/2011,Montecito ,Sun Chips,36
+2/13/2011,Morrison,Pringles,50
+2/13/2011,Morrison,Tostitos,31
+2/13/2011,Morrison,Lay's,33
+2/13/2011,Morrison,Popchips,19
+2/13/2011,Morrison,Sun Chips,35
+2/13/2011,Piedmont ,Pringles,41
+2/13/2011,Piedmont ,Tostitos,35
+2/13/2011,Piedmont ,Lay's,22
+2/13/2011,Piedmont ,Popchips,26
+2/13/2011,Piedmont ,Sun Chips,42
+2/13/2011,Sainsbury,Pringles,17
+2/13/2011,Sainsbury,Tostitos,17
+2/13/2011,Sainsbury,Lay's,45
+2/13/2011,Sainsbury,Popchips,13
+2/13/2011,Sainsbury,Sun Chips,47
+2/13/2011,Food4Less,Pringles,20
+2/13/2011,Food4Less,Tostitos,29
+2/13/2011,Food4Less,Lay's,48
+2/13/2011,Food4Less,Popchips,13
+2/13/2011,Food4Less,Sun Chips,33
+2/13/2011,Rolling Hills ,Pringles,43
+2/13/2011,Rolling Hills ,Tostitos,18
+2/13/2011,Rolling Hills ,Lay's,45
+2/13/2011,Rolling Hills ,Popchips,42
+2/13/2011,Rolling Hills ,Sun Chips,50
+2/13/2011,Sausalito ,Pringles,20
+2/13/2011,Sausalito ,Tostitos,40
+2/13/2011,Sausalito ,Lay's,24
+2/13/2011,Sausalito ,Popchips,36
+2/13/2011,Sausalito ,Sun Chips,19
+2/13/2011,Tiburon ,Pringles,32
+2/13/2011,Tiburon ,Tostitos,28
+2/13/2011,Tiburon ,Lay's,14
+2/13/2011,Tiburon ,Popchips,42
+2/13/2011,Tiburon ,Sun Chips,13
+2/13/2011,Woodside ,Pringles,41
+2/13/2011,Woodside ,Tostitos,38
+2/13/2011,Woodside ,Lay's,36
+2/13/2011,Woodside ,Popchips,13
+2/13/2011,Woodside ,Sun Chips,29
